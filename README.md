@@ -33,7 +33,7 @@ Sistema de gestión integral para control de inventario animal, nacimientos y co
 
 ## 📫 Contacto
 
-- 📧 Email: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+- 📧 Email: [tu-email@ejemplo.com](mailto:karlosmog@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) *(opcional)*
 
 ---
