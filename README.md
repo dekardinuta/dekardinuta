@@ -1,7 +1,7 @@
 # 👋 Hola, soy Carlos
   <div align="center">
-    🐄  +  { }  =  💡
-    GANADERÍA  +  CÓDIGO  =  SOLUCIONES
+   🐄  +  { }  =  💡
+GANADERÍA  +  CÓDIGO  =  SOLUCIONES
   </div>
 
 
