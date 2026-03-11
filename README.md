@@ -33,12 +33,12 @@ Sistema de gestión integral para control de inventario animal, nacimientos y co
 
 ## 📫 Contacto
 
-- 📧 Email: [tu-email@ejemplo.com](mailto:karlosmog@gmail.com)
+- 📧 Email: [karlosmog@gmail.com](mailto:karlosmog@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) *(opcional)*
 
 ---
 
-*Construyendo tecnología para el campo chileno 🐄🇨🇱*
+*Construyendo tecnología para el campo venezolano 🐄ve*
 <!--
 **dekardinuta/dekardinuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
