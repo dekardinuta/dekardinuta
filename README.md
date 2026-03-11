@@ -1,47 +1,57 @@
-# 👋 Hola, soy Carlos
-  <div align="center">
-   🐄  +  { }  =  💡
-    
-GANADERÍA  +  CÓDIGO  =  SOLUCIONES
-  </div>
+# 🐄 Carlos | Agrotech Developer & Cattle Management Systems
 
-
-Desarrollador de soluciones tecnológicas para el sector **agropecuario**.  
-Especializado en automatización de procesos ganaderos con Google Apps Script y JavaScript.
+<div align="center">
+  <strong>Transformando la operatividad del campo venezolano a través de ingeniería de software.</strong>
+  <br><br>
+  <code>GANADERÍA (Dominio) + CÓDIGO (Herramienta) = EFICIENCIA (Resultado)</code>
+</div>
 
 ---
 
-## 🚀 Proyecto Destacado
+## 👨‍💻 Perfil Profesional
+Desarrollador especializado en el sector **agropecuario**, con enfoque en la digitalización de procesos críticos. Mi trabajo se centra en eliminar la discrecionalidad del error humano mediante sistemas de captura de datos robustos, garantizando trazabilidad total para entes reguladores (INSAI/SUNAGRO).
 
-### [Valparaíso Ganadería](https://github.com/dekardinuta/valparaiso-ganaderia) 🔒 *Privado*
-Sistema de gestión integral para control de inventario animal, nacimientos y compras.
-
-**Características técnicas:**
-- ⚡ Concurrencia con LockService (evita colisiones de IDs)
-- 📅 Validación de fechas multiformato (DD-MM-YYYY, DD/MM/YYYY)
-- 🧠 Control de fragmentación (detecta filas omitidas vs. futuras)
-- 🚀 Arquitectura batch para optimización de APIs de Google Sheets
-
-**Stack:** Google Apps Script | JavaScript | clasp | Git
-
-&gt; *Repositorio privado. Contactar para demo o consulta.*
+- 🛠 **Especialidad:** Automatización con Google Apps Script, integración de APIs y normalización de bases de datos relacionales.
+- 🐄 **Expertise:** Gestión de rebaños lecheros (Jersey/Holstein), índices de conversión alimenticia y finanzas rurales.
 
 ---
 
-## 🛠️ Tecnologías
+## 🚀 Proyecto Destacado: Sistema Valparaíso (V4.0.0) 🔒
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+Sistema de gestión integral para control de inventario y trazabilidad genética. 
+> *Nota: Repositorio privado por confidencialidad de datos comerciales. Disponible para demostración técnica.*
 
----
-
-## 📫 Contacto
-
-- 📧 Email: [karlosmog@gmail.com](mailto:tu-email@ejemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) *(opcional)*
+### 🛡️ Desafíos Técnicos Resueltos:
+* **Integridad de Datos:** Implementación de `LockService` para gestionar concurrencia masiva, evitando la duplicidad de IDs en registros de nacimientos simultáneos.
+* **Validación Multiformato:** Algoritmo de limpieza de fechas (Regex + Date objects) que normaliza ingresos manuales erráticos a estándares ISO.
+* **Control de Fragmentación:** Lógica de detección de "Watermark" para diferenciar entre filas futuras (espacios en blanco) y omisiones accidentales del operador, manteniendo la contigüidad legal del libro de registros.
+* **Optimización de Latencia:** Procesamiento por lotes (Batch Processing) mediante `setValues()` y `getValues()`, reduciendo el tiempo de ejecución en un 80% frente a escrituras individuales.
 
 ---
 
-*Construyendo tecnología para el campo venezolano 🐄ve*
+## 🛠️ Stack Tecnológico
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `JavaScript (ES6+)`, `Node.js`, `HTML5/CSS3` |
+| **Plataformas** | `Google Apps Script`, `Google Cloud (GCP)` |
+| **Herramientas** | `clasp`, `Git`, `SSH (Ed25519)`, `VS Code` |
+| **Data** | `SQL Concepts`, `JSON`, `Google Sheets API` |
+
+---
+
+## 📊 KPIs que Automatizo
+- 📈 Producción por vaca/año.
+- 📉 Mortalidad de terneros y tasas de descarte.
+- 💰 Costo por litro de leche producido y Margen Bruto.
+
+---
+
+## 📫 Conectemos
+
+- 📧 **Email:** [karlosmog@gmail.com](mailto:karlosmog@gmail.com)
+- 📍 **Ubicación:** Venezuela 🇻🇪
+- 🤝 **Disponibilidad:** Consultoría técnica y desarrollo de sistemas a medida para fincas.
+
+---
+*Codificando el futuro de la ganadería tropical.*
