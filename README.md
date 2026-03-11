@@ -1,4 +1,9 @@
 # 👋 Hola, soy Carlos
+<div align="center">
+🐄  +  { }  =  💡
+GANADERÍA  +  CÓDIGO  =  SOLUCIONES
+</div>
+
 
 Desarrollador de soluciones tecnológicas para el sector **agropecuario**.  
 Especializado en automatización de procesos ganaderos con Google Apps Script y JavaScript.
