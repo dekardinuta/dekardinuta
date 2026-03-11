@@ -4,7 +4,6 @@
     GANADERÍA  +  CÓDIGO  =  SOLUCIONES
   </div>
 
-## 🚀 Proyecto Destacado
 
 Desarrollador de soluciones tecnológicas para el sector **agropecuario**.  
 Especializado en automatización de procesos ganaderos con Google Apps Script y JavaScript.
