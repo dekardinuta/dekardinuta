@@ -1,6 +1,6 @@
 # 👋 Hola, soy Carlos
   <div align="center">
-   🐄  +  { }  =  💡
+   🐄  +  { }  =  💡/br
 GANADERÍA  +  CÓDIGO  =  SOLUCIONES
   </div>
 
