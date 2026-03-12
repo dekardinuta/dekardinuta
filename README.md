@@ -49,7 +49,7 @@ Sistema de gestión integral para control de inventario y trazabilidad genética
 
 ## 📫 Conectemos
 
-- 📧 **Email:** [karlosmog@gmail.com](mailto:karlosmog@gmail.com)
+- "Para consultas técnicas, por favor completa mi Formulario de Contacto Automatizado."
 - 📍 **Ubicación:** Venezuela 🇻🇪
 - 🤝 **Disponibilidad:** Consultoría técnica y desarrollo de sistemas a medida para fincas.
 
