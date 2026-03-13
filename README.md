@@ -49,7 +49,12 @@ Sistema de gestión integral para control de inventario y trazabilidad genética
 
 ## 📫 Conectemos
 
-- Para consultas técnicas, por favor completa mi Formulario de Contacto Automatizado.
+### 📩 Contacto y Consultoría
+Si deseas recibir el portafolio completo del **Sistema Valparaíso V4.0.0**, incluyendo el análisis de rentabilidad y el modelo de economía circular, por favor completa el siguiente formulario:
+
+> [**👉 Solicitar Portafolio de Inversión (PDF)**](URL_DE_TU_FORMULARIO_AQUI)
+
+*Nota: El sistema enviará el documento de forma automática a tu correo electrónico.*
 - 📍 **Ubicación:** Venezuela 🇻🇪
 - 🤝 **Disponibilidad:** Consultoría técnica y desarrollo de sistemas a medida para fincas.
 
